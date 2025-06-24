@@ -3,7 +3,7 @@ from tkinter import *
 from functools import partial
 
 print("Comenzando...")
-socketIO = SocketIO('34.173.19.239', 5001)
+socketIO = SocketIO('34.136.249.24', 5001)
 print("Conectado al servidor.")
 
 class Window(Frame):
